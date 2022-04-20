@@ -1,3 +1,3 @@
-# fnd-33-wordpress
+# Wordpress (Ongoing)
 
 Resources BWA Wordpress Website Development Basic
