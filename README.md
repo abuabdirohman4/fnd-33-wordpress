@@ -1,3 +1,3 @@
-# Wordpress (Ongoing)
+# Wordpress
 
 Resources BWA Wordpress Website Development Basic
